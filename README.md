@@ -4,13 +4,8 @@ Next Level Studios is a digital platform that empowers individuals and businesse
 
 ## Have a look
 
-<p align="center">
-  <a href="https://Its-sb.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/shiva-bajpai/next-level-studios/preview/1.png" alt="my banner"></a>
-</p>
+![Studios](next-level-studios/preview/1.png)
 
-![Image 1](https://github.com/Shiva-Bajpai/next-level-studios/Preview/1.png?raw=true)
-![Image 2](https://github.com/Shiva-Bajpai/next-level-studios/Preview/2.png?raw=true)
-![Image 3](https://github.com/Shiva-Bajpai/next-level-studios/Preview/3.png?raw=true)
 
 
 
