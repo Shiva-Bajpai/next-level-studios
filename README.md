@@ -4,9 +4,9 @@ Next Level Studios is a digital platform that empowers individuals and businesse
 
 ## Have a look
 
-![Image 1](https://github.com/Shiva-Bajpai/next-level-studios/blob/main/preview/1.png?raw=true)
-![Image 2](https://github.com/Shiva-Bajpai/next-level-studios/blob/main/preview/2.png?raw=true)
-![Image 3](https://github.com/Shiva-Bajpai/next-level-studios/blob/main/preview/3.png?raw=true)
+![Image 1](https://github.com/Shiva-Bajpai/next-level-studios/Preview/1.png?raw=true)
+![Image 2](https://github.com/Shiva-Bajpai/next-level-studios/Preview/2.png?raw=true)
+![Image 3](https://github.com/Shiva-Bajpai/next-level-studios/Preview/3.png?raw=true)
 
 
 
